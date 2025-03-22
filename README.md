@@ -1,7 +1,7 @@
 
 Hi,I'm @Keerthana425.
 I,m interested in coding.
-I'm currently learning in 3nd b.tech.
+I'm currently learning in 3rd b.tech.
 I'm looking to collaborate on coding skills.
 
 <!---
